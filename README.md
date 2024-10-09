@@ -506,10 +506,10 @@ int main() {
 
 ### OUTPUT:
 Simulating Hill Cipher
-- Input Message : JAYABHARATHI
-- Padded Message : JAYABHARATHI 
+- Input Message : ASINVARDHINI
+- Padded Message : ASINVARDHINI 
 - Encrypted Message : ASSDLDLFEYTO 
-- Decrypted Message : JAYABHARATHI 
+- Decrypted Message : ASINVARDHINI 
 
 ## RESULT:
 The Program for Hill Cipher is executed successfully.
