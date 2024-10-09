@@ -98,12 +98,13 @@ int main() {
 ```
 
 ## OUTPUT:
-![caesar](https://github.com/user-attachments/assets/70ac233d-2ed1-4850-b311-0d08497af59d)
+<img width="291" alt="image" src="https://github.com/user-attachments/assets/6b05a6de-6e4b-4359-ab5b-863111a95150">
+
 
 ### OUTPUT:
-- Input : JAYABHARATHI S
-- Encrypted Message : MDBDEKDUDWKL V
-- Decrypted Message : JAYABHARATHI S
+- Input : ASINVARDHINI
+- Encrypted Message : EWMRZEVHLMRM
+- Decrypted Message : ASINVARDHINI
 
 ## RESULT:
 The Caeser Cipher program is executed successfully.
@@ -343,7 +344,7 @@ int main() {
     printf("Key text: %s\n", key);
 
     // Plaintext to be encrypted
-    strcpy(str, "JAYABHARATHI");
+    strcpy(str, "ASINVARDHINI");
     printf("Plain text: %s\n", str);
 
     // Encrypt using Playfair Cipher
@@ -363,8 +364,8 @@ int main() {
 
 ### Output:
 - Key text: Monopoly 
-- Plain text: JAYABHARATHI
-- Cipher text: fdabcgbqdqie
+- Plain text: ASINVARDHINI
+- Cipher text: cqgloftbielg
 
 ## RESULT:
 The Program for Play Fair is executed successfully.
@@ -451,7 +452,7 @@ int main() {
     char dec[1000] = "";
     int n;
 
-    strcpy(msg, "JAYABHARATHI");
+    strcpy(msg, "ASINVARDHINI");
     printf("Input message : %s\n", msg);
 
     // Convert the input message to uppercase
@@ -499,13 +500,14 @@ int main() {
 ```
 
 ## OUTPUT:
-![hill](https://github.com/user-attachments/assets/0b223101-b28f-48b5-970e-9ad212ba317d)
+<img width="295" alt="image" src="https://github.com/user-attachments/assets/816f58ce-1f5d-46de-92e1-a7f4fb6416ee">
+
 
 ### OUTPUT:
 Simulating Hill Cipher
 - Input Message : JAYABHARATHI
 - Padded Message : JAYABHARATHI 
-- Encrypted Message : FOHQRJIZIXXP 
+- Encrypted Message : ASSDLDLFEYTO 
 - Decrypted Message : JAYABHARATHI 
 
 ## RESULT:
@@ -623,13 +625,14 @@ void decipher() {
 ```
 
 ## OUTPUT:
-![vignere](https://github.com/user-attachments/assets/755c7f5e-07b9-406d-ab4e-ad523b438f62)
+<img width="422" alt="image" src="https://github.com/user-attachments/assets/7b4cc930-eaad-4bdf-846c-07bf22e56c45">
+
 
 ### OUTPUT :
 Simulating Vigenere Cipher
-- Input Message : JAYABHARATHI
-- Encrypted Message : <3K34:3D3F:;
-- Decrypted Message : JAYABHARATHI
+- Input Message : ASINVARDHINI
+- Encrypted Message : 3E;@H3D6:;@;
+- Decrypted Message : ASINVARDHINI
 
 ## RESULT:
 The Program for Vigenere Cipher is executed successfully.
@@ -772,13 +775,14 @@ int main() {
 ```
 
 ## OUTPUT:
-![rail](https://github.com/user-attachments/assets/1d815f22-9e41-45c4-acb8-cca4cfa67682)
+<img width="386" alt="image" src="https://github.com/user-attachments/assets/7f3a11e6-f68f-4d1a-afa6-b4a5054716f7">
+
 
 ### OUTPUT:
-Enter a plain text : JAYABHARATHI
+Enter a plain text : ASINVARDHINI
 - Enter he ke (number of rails): 2
-- Encrypted Message : JYBAAHAAHRTI
-- Decrypted Message : JAYABHARATHI
+- Encrypted Message : AIVRHNSNADII
+- Decrypted Message : ASINVARDHINI
 
 
 ## RESULT:
