@@ -360,7 +360,8 @@ int main() {
 ```
 
 ## OUTPUT:
-![pfair](https://github.com/user-attachments/assets/5a35d4d4-a76c-4910-ab2d-08dd41a22bd1)
+![Screenshot 2024-10-09 214019](https://github.com/user-attachments/assets/b5decc54-db13-4375-8353-282b5b40da92)
+
 
 ### Output:
 - Key text: Monopoly 
